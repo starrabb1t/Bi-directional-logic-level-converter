@@ -4,6 +4,8 @@ The PCB here is extension for ST NUCLEO Boards to work with 5V periphery. There 
 
 There are all gerbers you need to make PCB in the repo. 
 
+<img src="gerber.png" width="500" />
+
 Details you need to solder PCB:
 - BSS138 (x20)
 - 10K resistor (x40)
