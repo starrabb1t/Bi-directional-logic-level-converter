@@ -1,6 +1,6 @@
 # Bi-directional-logic-level-converter
 
-The is extension board for ST NUCLEO 144 controllers (tested with F746ZG) to work with 5V periphery. There are twenty 5V-tolerant pins, that connected to controller via BSS138 MOSFET. There are also twelve pins with 3.3V logic only.  
+There is extension board for ST NUCLEO 144 controllers (tested with F746ZG) to work with 5V periphery. There are twenty 5V-tolerant pins, that connected to controller via BSS138 MOSFET. There are also twelve pins with 3.3V logic only.  
 
 There are all gerbers you need to manufacture PCB in the zip-archive. 
 
